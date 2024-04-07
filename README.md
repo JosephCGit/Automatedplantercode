@@ -11,3 +11,5 @@ Credit to Adafruit and contributors for the RTClib library, it is split between 
 The other one is the [Adafruit_BusIO](https://github.com/adafruit/Adafruit_BusIO) just download the Adafruit_I2CDevice.h and Adafruit_I2CDevice.cpp.
 
 Credit to Timothy Woo and David Bendory for Readline method used in project. Taken from [LTEDemo.ino](https://github.com/botletics/Botletics-SIM7000/blob/main/examples/LTE_Demo/LTE_Demo.ino).
+
+The code is subject to GNU public license v3.0 as per the terms of the license for the Botletics-SIM7000 [github](https://github.com/botletics/Botletics-SIM7000/blob/main/LICENSE). However it is also subject to the MIT license as included in the repositories of RTClib, Adafruit_BUSIO, and [DHT20](https://github.com/RobTillaart/DHT20/blob/master/LICENSE).
